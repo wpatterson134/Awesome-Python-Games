@@ -1,6 +1,7 @@
 #! /bin/bash
 
 pip install tk
-python setup.py install
+
 pip install simplegui
+python setup.py install
 
