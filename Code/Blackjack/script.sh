@@ -1,4 +1,4 @@
 #! /bin/bash
 sudo python setup.py install
-pip install simplegui
+# pip install simplegui
 python 6-Blackjack.py
