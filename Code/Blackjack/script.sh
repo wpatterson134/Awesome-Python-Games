@@ -1,4 +1,5 @@
 #! /bin/bash
-sudo python setup.py install
+python setup.py install
+pip install tk
 pip install simplegui
 python 6-Blackjack.py
